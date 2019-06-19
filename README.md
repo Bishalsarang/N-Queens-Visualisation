@@ -1,3 +1,4 @@
+
 This repository contains the visualiazation of popular algorithmic problems : N-Queens using backtracking.
 
 ### Problem Description
@@ -7,7 +8,14 @@ The  _n_-queens puzzle is the problem of placing  _n_  queens on an  _n_×_n_  c
 
 Given an integer  _n_, visualise all distinct solutions using backtracking  to the  _n_-queens puzzle.
 
+### TODO:
 
+ - [x] Draw board and queens,
+ - [x] Implement backtracking algo,
+ - [x] Mark attacking positions,
+ - [ ]  Add command line functionality to control number of queens, animation speed,
+ - [ ] Code Refactoring
+ - [ ] Build standalone executable.
 
 ### Tools and Language Used
  1. C++
@@ -21,9 +29,10 @@ Given an integer  _n_, visualise all distinct solutions using backtracking  to t
  
   #### 2. Running executable
  ```
- nqueens -N 8 -steps True
+
 ```
 ### Screenshots:
 
  - ***N = 4***
+ ![enter image description here](https://raw.githubusercontent.com/sarangbishal/N-Queens-Visualisation/master/visualisations/nqueens_4.gif?token=AG2ULFA3N43HG7ZZIKBDR6S5COWWM)
  
