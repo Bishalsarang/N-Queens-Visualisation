@@ -1,6 +1,11 @@
 This repository contains the visualiazation of popular algorithmic problems : N-Queens using backtracking.
 
 ### Problem Description
+The  _n_-queens puzzle is the problem of placing  _n_  queens on an  _n_×_n_  chessboard such that no two queens attack each other.
+
+![](https://assets.leetcode.com/uploads/2018/10/12/8-queens.png)
+
+Given an integer  _n_, visualise all distinct solutions using backtracking  to the  _n_-queens puzzle.
 
 
 
