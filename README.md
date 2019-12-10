@@ -34,5 +34,5 @@ Given an integer  _n_, visualise all distinct solutions using backtracking  to t
 ### Screenshots:
 
  - ***N = 4***
- ![enter image description here](https://raw.githubusercontent.com/sarangbishal/N-Queens-Visualisation/master/visualisations/nqueens_4.gif?token=AG2ULFA3N43HG7ZZIKBDR6S5COWWM)
+ ![enter image description here](https://github.com/sarangbishal/N-Queens-Visualisation/blob/master/visualisations/nqueens_4.gif)
  
