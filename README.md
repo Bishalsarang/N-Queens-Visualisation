@@ -35,10 +35,10 @@ Given an integer  _n_, visualise all distinct solutions using backtracking  to t
 ### Screenshots:
 
  - ***N = 4***
- ![Nqueens 4](https://github.com/sarangbishal/N-Queens-Visualisation/blob/master/visualisations/nqueens_4.gif)
+ ![Nqueens 4](https://github.com/Bishalsarang/N-Queens-Visualisation/blob/master/visualisations/nqueens_4.gif)
  The total solutions for N = 4 queen is 2
  _
-  ![Sol 1](https://github.com/sarangbishal/N-Queens-Visualisation/blob/master/visualisations/nqueens_4_Sol1.JPG)|
-  ![SOl2](https://github.com/sarangbishal/N-Queens-Visualisation/blob/master/visualisations/nqueens_4_Sol2.JPG)|
+  ![Sol 1](https://github.com/Bishalsarang/N-Queens-Visualisation/blob/master/visualisations/nqueens_4_Sol1.JPG)|
+  ![SOl2](https://github.com/Bishalsarang/N-Queens-Visualisation/blob/master/visualisations/nqueens_4_Sol2.JPG)|
  - ***N = 5***
-![enter image description here](https://github.com/sarangbishal/N-Queens-Visualisation/blob/master/visualisations/nqueens_5.gif)
+![enter image description here](https://github.com/Bishalsarang/N-Queens-Visualisation/blob/master/visualisations/nqueens_5.gif)
